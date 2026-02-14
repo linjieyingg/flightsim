@@ -1,0 +1,8 @@
+Foundation - Project structure, data classes, design principles
+Physics Engine - 2D rocket dynamics with RK4 integration
+Sensors - Simulated IMU + altimeter with realistic noise
+Kalman Filter - EKF for state estimation (the "smart" part)
+PID Controller - Pitch stabilization via gimbal control
+Visualization - Professional 6-plot figure + metrics
+Integration - Wire it all together
+Enhancements - Advanced physics, estimation, control for depth
